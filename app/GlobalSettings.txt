@@ -1,0 +1,6 @@
+caesar_constant 67877
+max_luggage_weight 45
+min_luggage_weight 0
+baggage_tag_font Arial
+boarding_pass_font American_Typewriter
+airport_IATA_code LHE
